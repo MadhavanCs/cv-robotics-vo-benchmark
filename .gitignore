@@ -210,3 +210,4 @@ __pycache__/
 *.pyc
 .vscode/
 data/images/
+data/tum/
