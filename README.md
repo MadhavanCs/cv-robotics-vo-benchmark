@@ -58,6 +58,9 @@ py src/vo/trajectory.py
 Currently tested on custom images.
 Next: TUM RGB-D Dataset integration.
 
+## TUM Dataset Result
+![TUM Trajectory](results/tum_trajectory.png)
+
 ## References
 - Mur-Artal et al., ORB-SLAM (2015)
 - OpenCV Visual Odometry docs
